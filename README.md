@@ -85,4 +85,4 @@ sub-categories, and a time dimension.
 ## Portfolio
 A full business-focused case study and dashboard walkthrough is
 available here:
-[Portfolio Home Page](PASTE_NOTION_LINK_HERE)
+[Portfolio Home Page](https://www.notion.so/Management-Financial-Performance-Report-2dcf8b4a931a805dbfe2fdfe0dcaaf31)
